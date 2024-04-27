@@ -1,5 +1,9 @@
 # 💫 About Me:
-¡Hola y bienvenido a mi perfil!<br><br>Soy un apasionado programador joven de 24 años proveniente de El Salvador, con un insaciable deseo de aprender y destacarme en el mundo del desarrollo de software. Mi pasión por la programación me impulsa a sumergirme en nuevos desafíos y proyectos emocionantes, siempre con el objetivo de superarme a mí mismo y ofrecer soluciones innovadoras.<br><br>¡Gracias por visitar mi perfil!
+Hello and welcome to my profile! :raised_hands:
+
+I am a passionate young 24-year-old programmer from El Salvador, with an insatiable desire to learn and stand out in the world of software development. My passion for programming drives me to immerse myself in new challenges and exciting projects, always with the goal of improving myself and offering innovative solutions.
+
+Thank you for visiting my profile! :relaxed:
 
 
 # 💻 Tech Stack:
