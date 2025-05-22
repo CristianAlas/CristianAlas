@@ -41,9 +41,9 @@ Estoy siempre abierto a nuevas ideas y colaboraciones, así que no dudes en expl
 
 # 🎥 Demo / Video
 
-> Puedes incluir aquí una presentación personal, demo de proyecto o video destacado. Solo reemplaza el enlace de YouTube con el tuyo:
+Sistema Gestor de Inventario: Gestión de Usuarios, Gestión de Compras, Recepciones y Ventas, Implementado Spring Security y JWT:
 
-[![Mi Proyecto Destacado](https://img.youtube.com/vi/tu_video_id/mqdefault.jpg)](https://www.youtube.com/watch?v=O-RILwe75vg)
+[![YouTube Video](https://img.shields.io/badge/Ver%20en-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=O-RILwe75vg)
 
 ---
 
