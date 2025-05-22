@@ -43,7 +43,7 @@ Estoy siempre abierto a nuevas ideas y colaboraciones, así que no dudes en expl
 
 > Puedes incluir aquí una presentación personal, demo de proyecto o video destacado. Solo reemplaza el enlace de YouTube con el tuyo:
 
-[![Mi Proyecto Destacado](https://img.youtube.com/vi/tu_video_id/mqdefault.jpg)](https://www.youtube.com/watch?v=tu_video_id)
+[![Mi Proyecto Destacado](https://img.youtube.com/vi/tu_video_id/mqdefault.jpg)](https://www.youtube.com/watch?v=O-RILwe75vg)
 
 ---
 
