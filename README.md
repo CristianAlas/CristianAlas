@@ -39,6 +39,14 @@ Estoy siempre abierto a nuevas ideas y colaboraciones, así que no dudes en expl
 
 ---
 
+# 🌐 Mis Enlaces
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://crsitian-portafolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-alfredo-alas-castellanos-1633732aa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristian_alas16/)
+
+---
+
 # 🎥 Demo / Video
 
 Sistema Gestor de Inventario: Gestión de Usuarios, Gestión de Compras, Recepciones y Ventas, Implementado Spring Security y JWT:
