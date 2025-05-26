@@ -1,4 +1,4 @@
-<img src="Captura%20de%20pantalla%202025-05-26%20154112.png" alt="Cristian Alas - Junior Software Developer" width="100%" />
+<img src="Captura%20de%20pantalla%202025-05-26%20154112.png" alt="Cristian Alas - Junior Software Developer" width="600"/>
 
 # 💫 About Me
 
