@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Captura%20de%20pantalla%202025-05-26%20155509s.png" alt="Cristian Alas - Junior Software Developer" width="600"/>
+  <img src="().png" alt="Cristian Alas - Junior Software Developer" width="100%"/>
 </p>
 
 # 💫 About Me
