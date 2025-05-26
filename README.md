@@ -4,19 +4,19 @@
 
 # 💫 About Me
 
-### ¡Hola y bienvenido a mi perfil! 👋
+### ¡Hello and welcome to my profile! 👋
 
-Soy un desarrollador full stack de 25 años, originario de El Salvador, con una gran pasión por la tecnología y el desarrollo de software. Me encanta aprender constantemente, asumir nuevos retos y trabajar en proyectos que me permitan crecer y aportar soluciones innovadoras.
+I'm a 25-year-old full stack developer from El Salvador, with a great passion for technology and software development. I love constantly learning, taking on new challenges, and working on projects that allow me to grow and contribute innovative solutions.
 
-Estoy siempre abierto a nuevas ideas y colaboraciones, así que no dudes en explorar mis repositorios o contactarme si te interesa trabajar juntos.
+I'm always open to new ideas and collaborations, so feel free to explore my repositories or contact me if you're interested in working together.
 
-¡Gracias por visitar mi perfil! 🚀
+Thanks for visiting my profile! 🚀
 
 ---
 
 # 💻 Tech Stack
 
-### 🧠 Lenguajes, Frameworks y Herramientas que uso:
+### 🧠 Languages, Frameworks, and Tools I Use:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,7 +53,7 @@ Estoy siempre abierto a nuevas ideas y colaboraciones, así que no dudes en expl
 
 # 🎥 Demo / Video
 
-Sistema Gestor de Inventario: Gestión de Usuarios, Gestión de Compras, Recepciones y Ventas, Implementado Spring Security y JWT:
+Inventory Management System: User Management, Purchase Management, Receiving and Sales. Implemented with Spring Security and JWT.
 
 [![YouTube Video](https://img.shields.io/badge/Ver%20en-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=O-RILwe75vg)
 
